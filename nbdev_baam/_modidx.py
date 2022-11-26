@@ -5,4 +5,5 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://chr7stos.github.io',
                 'git_url': 'https://github.com/chr7stos/nbdev_baam',
                 'lib_path': 'nbdev_baam'},
-  'syms': {'nbdev_baam.core': {'nbdev_baam.core.foo': ('core.html#foo', 'nbdev_baam/core.py')}}}
+  'syms': { 'nbdev_baam.core': { 'nbdev_baam.core.foo': ('core.html#foo', 'nbdev_baam/core.py'),
+                                 'nbdev_baam.core.say_hello': ('core.html#say_hello', 'nbdev_baam/core.py')}}}

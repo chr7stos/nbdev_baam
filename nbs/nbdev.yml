@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_baam"
+  site-url: "https://chr7stos.github.io/nbdev_baam"
+  description: "first project using nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/chr7stos/nbdev_baam"
